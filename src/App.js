@@ -11,7 +11,7 @@ export default function App() {
           <a
             href="https://github.com/Buhle-Masondo"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             {" "}
             Buhle Masondo
@@ -20,9 +20,17 @@ export default function App() {
           <a
             href="https://github.com/Buhle-Masondo/weather-react"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open sourced on Github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://wondrous-sable-779ad4.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
